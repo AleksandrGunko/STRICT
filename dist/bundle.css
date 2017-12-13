@@ -158,3 +158,9 @@
     display: block;
     -webkit-transition: 0.4s;
     transition: 0.4s; }
+
+.form-control {
+  height: 30px; }
+
+textarea.form-control {
+  height: 200px; }
