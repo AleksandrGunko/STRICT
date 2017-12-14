@@ -1,0 +1,16 @@
+@media #{$mobileMode} {
+	.banner .banner_content h1 {
+	    font-size: 60px;
+	}
+	.banner {
+	    padding-top: 90px;
+	    padding-bottom: 20px;
+	}
+	.banner .banner_content .next_screen {
+    	margin-top: 100px;
+    }
+    .btn-primary {
+	    width: 100%;
+	    margin-top: 10px;
+	}
+}
