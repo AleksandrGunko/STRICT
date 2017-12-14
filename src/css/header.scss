@@ -1,3 +1,10 @@
-.logo {
+header {
 	height: 100px;
+	line-height: 100px;
+}
+.logo {
+	vertical-align: middle;
+	a {
+		text-decoration: none;
+	}	
 }
